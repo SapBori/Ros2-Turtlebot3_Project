@@ -1,0 +1,7 @@
+image: /home/kw2018741008/turtlebot3_ws/map/house_wa.pgm
+mode: trinary
+resolution: 0.05
+origin: [-3.75, -5.52, 0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.25
